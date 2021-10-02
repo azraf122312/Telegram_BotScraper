@@ -10,7 +10,7 @@
 
 `$ git clone https://github.com/azraf122312/Telegram_BotScraper.git`
 
-`$ cd TeleGram-Scraper`
+`$ cd Telegram_BotScraper`
 
 * Install requierments
 
