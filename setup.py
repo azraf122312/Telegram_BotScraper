@@ -16,7 +16,7 @@ def requirements():
 			python3 -m pip install cython nympy pandas""")
 
     input_csv = input('Do You Want to enable csv merge (y/n) : ')
-    if input_csv = "y":
+    if input_csv == "y":
         csv_lib()
     else:
         pass
